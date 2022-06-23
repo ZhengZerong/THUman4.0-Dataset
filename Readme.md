@@ -25,9 +25,9 @@ We also provide the SMPL fitting in the dataset.
 ## Download Instructions 
 The dataset can be directly downloaded from the following links.
 
-* Subject00: [this link](), 2500 frames in total, ~30 GB
-* Subject01: [this link](), 5060 frames in total, ~30 GB
-* Subject02: [this link](), 3110 frames in total, ~30 GB
+* Subject00: [this link](https://drive.google.com/file/d/1KqA57I7KPvP9A7_hPiZd5ot2zu1jK5Dx/view?usp=sharing), 2500 frames in total, ~25 GB
+* Subject01: [this link](https://drive.google.com/file/d/1ZBOJldrZPxGttzvX74IemVa9JMLjY9vh/view?usp=sharing), 5060 frames in total, ~58 GB
+* Subject02: [this link](https://drive.google.com/file/d/1MsFx3xTYygdetfhc1kVs2W3pDSsAHKJg/view?usp=sharing), 3110 frames in total, ~36 GB
 
 
 Note again that by downloading the dataset you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
@@ -146,5 +146,5 @@ pages = {}
 ```
 
 ## Contact
-- Zerong Zheng [(ytrock@126.com)](mailto:zrzheng1995@foxmail.com)
+- Zerong Zheng [(zrzheng1995@foxmail.com)](mailto:zrzheng1995@foxmail.com)
 - Yebin Liu [(liuyebin@mail.tsinghua.edu.cn)](mailto:liuyebin@mail.tsinghua.edu.cn)
