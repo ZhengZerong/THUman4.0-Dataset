@@ -126,9 +126,12 @@ If everything is setup properly, you can see an animation like this:
 
 
 ## Related Datasets from THU3DV Lab [[Link]](http://liuyebin.com/)
+[[THuman 3.0 Dataset]](https://github.com/fwbx529/THuman3.0-Dataset) Containing 20 human-garment combinations, where each combination has 15 to 35 high-quality human scans captured by a dense DLSR rig.  
+
 [[MultiHuman Dataset]](https://github.com/y-zheng18/MultiHuman-Dataset/) Containing 453 high-quality scans, each contains 1-3 persons. The dataset can be used to train and evaluate multi-person reconstruction algorithms.
 
 [[THuman 2.0 Dataset]](https://github.com/ytrock/THuman2.0-Dataset) Containing 500 high-quality human scans captured by a dense DLSR rig, with SMPL annotations. 
+
 
 
 
