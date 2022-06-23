@@ -7,7 +7,7 @@ Zerong Zheng, Han Huang, Tao Yu, Hongwen Zhang, Yandong Guo, Yebin Liu.  CVPR 20
 
 ![teaser](./teaser.png)
 
-This dataset contains three multi-view image sequences used in our paper "Structured Local Radiance Fields for Human Avatar Modeling". They are captured with 24 well-calibrated RGB cameras in 30 fps, with a resolution of 1330x1150 lengths ranging from 2500 to 5000 frames. We use the data to evaluate our method for building animatable human body avatars. 
+This dataset contains three multi-view image sequences used in our paper "Structured Local Radiance Fields for Human Avatar Modeling". They are captured with 24 well-calibrated RGB cameras in 30 fps, with a resolution of 1330x1150 and lengths ranging from 2500 to 5000 frames. We use the data to evaluate our method for building animatable human body avatars. 
 
 We also provide the SMPL fitting in the dataset. 
 
